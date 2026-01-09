@@ -1,6 +1,6 @@
 # 科技计量数据地理信息清洗 Agent（异步 LangGraph 实现）
-
-简要说明：本仓库包含一个基于规则 + LLM 的地址/机构省份识别异步清洗流程，主要实现见笔记本 [词表清洗智能体异步调用.ipynb](词表清洗智能体异步调用.ipynb)。请将 DeepSeek / Tavily 等 API Key 填入 [.env](.env)。
+- 原型设计链接：https://guyueaddressclean.netlify.app/（基于Gemmi3 bUILD未接入API版）
+- 简要说明：本仓库包含一个基于规则 + LLM 的地址/机构省份识别异步清洗流程，主要实现见笔记本 [词表清洗智能体异步调用.ipynb](词表清洗智能体异步调用.ipynb)。请将 DeepSeek / Tavily 等 API Key 填入 [.env](.env)。
 
 主要文件
 
