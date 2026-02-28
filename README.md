@@ -12,7 +12,6 @@
 
 1. 在 [.env](.env) 中填写 API Key：
    - DEEPSEEK_API_KEY
-   - Tavily_API_Key
 2. 准备省份词表文件：province_keywords.json（Notebook 中使用）。
 3. 安装依赖（示例）：
 
